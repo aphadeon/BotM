@@ -1,7 +1,7 @@
-# ![](Resources/repo.png)
+<span style="display:block;text-align:center"># ![](Resources/repo.png)</span>
 
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/aphadeon/BotM.svg?style=for-the-badge)](https://github.com/aphadeon/BotM/commits/master) [![Github All Releases](https://img.shields.io/github/downloads/atom/aphadeon/BotM/total.svg?style=for-the-badge)](https://github.com/aphadeon/BotM/releases) [![GitHub](https://img.shields.io/badge/license-MIT-brightgreen.svg?longCache=true&style=for-the-badge)](https://github.com/aphadeon/BotM/blob/master/LICENSE.MD) [![GitHub issues](https://img.shields.io/github/issues-raw/aphadeon/BotM.svg?style=for-the-badge)](https://github.com/aphadeon/BotM/issues)
+<span style="display:block;text-align:center">[![GitHub last commit](https://img.shields.io/github/last-commit/aphadeon/BotM.svg?style=for-the-badge)](https://github.com/aphadeon/BotM/commits/master)[![Github All Releases](https://img.shields.io/github/downloads/atom/aphadeon/BotM/total.svg?style=for-the-badge)](https://github.com/aphadeon/BotM/releases)[![GitHub](https://img.shields.io/badge/license-MIT-brightgreen.svg?longCache=true&style=for-the-badge)](https://github.com/aphadeon/BotM/blob/master/LICENSE.MD)[![GitHub issues](https://img.shields.io/github/issues-raw/aphadeon/BotM.svg?style=for-the-badge)](https://github.com/aphadeon/BotM/issues)</span>
 
 ### BotM: A BotW Mod Manager
 
