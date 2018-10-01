@@ -24,6 +24,7 @@ namespace BotM
             checkBoxCloseOnRun.Checked = MainForm.Settings.CloseOnRun;
             textBoxCommand.Text = MainForm.Settings.LaunchCommand;
             textBoxMlc.Text = MainForm.Settings.UpdatePath;
+            textBoxGamePath.Text = MainForm.Settings.GamePath;
         }
 
         private void ButtonCancel_Click(object sender, EventArgs e)
