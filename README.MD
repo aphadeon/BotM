@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-[![GitHub last commit](https://img.shields.io/github/last-commit/aphadeon/BotM.svg?style=for-the-badge)](https://github.com/aphadeon/BotM/commits/master)[![Github All Releases](https://img.shields.io/github/downloads/atom/aphadeon/BotM/total.svg?style=for-the-badge)](https://github.com/aphadeon/BotM/releases)[![GitHub](https://img.shields.io/badge/license-MIT-brightgreen.svg?longCache=true&style=for-the-badge)](https://github.com/aphadeon/BotM/blob/master/LICENSE.MD)[![GitHub issues](https://img.shields.io/github/issues-raw/aphadeon/BotM.svg?style=for-the-badge)](https://github.com/aphadeon/BotM/issues)
+<a href="https://github.com/aphadeon/BotM/commits/master"><img src="https://img.shields.io/github/last-commit/aphadeon/BotM.svg?style=for-the-badge"></a>
+<a href="https://github.com/aphadeon/BotM/releases"><img src="https://img.shields.io/github/downloads/aphadeon/BotM/total.svg?style=for-the-badge"></a>
+<a href="LICENSE.MD"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?longCache=true&style=for-the-badge"></a>
+<a href="https://github.com/aphadeon/BotM/issues"><img src="https://img.shields.io/github/issues-raw/aphadeon/BotM.svg?style=for-the-badge"></a>
 </p>
 
 ### BotM: A BotW Mod Manager
